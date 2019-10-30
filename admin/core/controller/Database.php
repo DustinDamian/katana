@@ -3,7 +3,7 @@ class Database {
 	public static $db;
 	public static $con;
 	function Database(){
-		$this->user="azur";$this->pass="6#vWHD_$";$this->host="localhost";$this->ddbb="localdb";
+		$this->user="azure";$this->pass="6#vWHD_$";$this->host="localhost";$this->ddbb="localdb";
 	}
 
 	function connect(){
